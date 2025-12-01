@@ -10,7 +10,7 @@ A modern furniture website showcasing indoor, outdoor, and office products with 
 
 ## Live Demo
 
-[View Live Site](https://sanasheikh08.github.io/Borcelle-Modern-Furniture-company/)
+https://hirafatima51.github.io/borcelle-modern-furniture/
 
 ## Technologies Used
 
